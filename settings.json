@@ -1,18 +1,18 @@
 "workbench.statusBar.visible": false,
 
-	"workbench.colorCustomizations": {
-		"tab.activeBackground": "#1a1b1d",
-		"tab.inactiveBackground": "#2b2b30",
-		"activityBar.background": "#252629",
-		"sideBar.background": "#212224",
-		"tab.hoverBackground": "#3a3c41",
-		"editor.background": "#1a1b1d",
-		"editor.foreground": "#b9b9b9",
-		"terminal.background": "#1c1d1f",
-		"titleBar.activeBackground": "#1c1d1f",
-		"sideBarSectionHeader.background": "#2e2f31",
-		"editorGroupHeader.tabsBackground": "#212224"
-	},
+"workbench.colorCustomizations": {
+	"tab.activeBackground": "#1a1b1d",
+	"tab.inactiveBackground": "#2b2b30",
+	"activityBar.background": "#252629",
+	"sideBar.background": "#212224",
+	"tab.hoverBackground": "#3a3c41",
+	"editor.background": "#1a1b1d",
+	"editor.foreground": "#b9b9b9",
+	"terminal.background": "#1c1d1f",
+	"titleBar.activeBackground": "#1c1d1f",
+	"sideBarSectionHeader.background": "#2e2f31",
+	"editorGroupHeader.tabsBackground": "#212224"
+},
 
-	"terminal.integrated.defaultProfile.windows": "Git Bash",
-	"workbench.colorTheme": "One Dark Pro Darker"
+"terminal.integrated.defaultProfile.windows": "Git Bash",
+"workbench.colorTheme": "One Dark Pro Darker"
