@@ -1,4 +1,4 @@
-// colors from one dark pro gnome theme
+/** colors from one dark pro gnome theme with some changes **/
 
 "workbench.statusBar.visible": false,
 
