@@ -54,7 +54,6 @@
         "terminal.background": "#202020",
         "notification.background": "#25252570",
         "tab.activeBackground": "#202020",
-        "tab.activeBorder": "#968e29",
         "tab.hoverBackground": "#2d2d2d",
         "tab.border": "#1b1b1b",
         "tab.inactiveBackground": "#2c2c2c",
