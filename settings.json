@@ -4,6 +4,7 @@
 	"workbench.colorTheme": "One Dark Pro Darker",
 	"terminal.integrated.defaultProfile.windows": "Git Bash",
 	"workbench.colorCustomizations": {
+		"editor.lineHighlightBackground": "#303030",
 		"titleBar.activeBackground": "#2b2b2b",
 		"titleBar.border": "#1b1b1b",
 		"titleBar.activeForeground": "#c9c9c9",
@@ -60,7 +61,7 @@
 		"contrastBorder": "#1b1b1b"
 	},
 	"javascript.updateImportsOnFileMove.enabled": "always",
-	"workbench.iconTheme": "vscode-great-icons",
+	"workbench.iconTheme": "material-icon-theme",
 	"editor.formatOnSave": true,
 	"prettier.useTabs": true,
 	"window.zoomLevel": 1,
@@ -75,6 +76,6 @@
 	"window.menuBarVisibility": "compact",
 	"workbench.statusBar.visible": false,
 	"workbench.layoutControl.enabled": false,
-	"editor.minimap.enabled": false
+	"editor.minimap.enabled": false,
+	"workbench.activityBar.visible": true
 }
-
