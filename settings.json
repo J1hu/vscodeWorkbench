@@ -4,7 +4,8 @@
 	"workbench.colorTheme": "One Dark Pro Darker",
 	"terminal.integrated.defaultProfile.windows": "Git Bash",
 	"workbench.colorCustomizations": {
-		"editor.lineHighlightBackground": "#303030",
+		"editor.lineHighlightBackground": "#282727",
+		"editorLineNumber.foreground": "#444444",
 		"titleBar.activeBackground": "#2b2b2b",
 		"titleBar.border": "#1b1b1b",
 		"titleBar.activeForeground": "#c9c9c9",
