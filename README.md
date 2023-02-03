@@ -5,6 +5,6 @@ Use `ctrl + shift + P`
 
 Then type `settings`
 
-Choose `user settings (JSON)`
+Choose `Preferences: Open User Settings (JSON)`
 
 You can now copy and paste the code.
