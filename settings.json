@@ -1,7 +1,5 @@
-/** colors from one dark pro gnome theme with some changes **/
-
 {
-	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.colorTheme": "GitHub Dark",
 	"terminal.integrated.defaultProfile.windows": "Git Bash",
 	"workbench.colorCustomizations": {
 		"editor.lineHighlightBackground": "#282727",
@@ -65,13 +63,15 @@
 	"workbench.iconTheme": "material-icon-theme",
 	"editor.formatOnSave": true,
 	"prettier.useTabs": true,
-	"window.zoomLevel": 1,
 	"git.enableSmartCommit": true,
 	"editor.guides.indentation": true,
 	"[html]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"window.menuBarVisibility": "compact",
